@@ -20,5 +20,5 @@ data = {
     {"session_idx": 0, "timeslot": 0, "room": "R1", "faculty": "F1"}
   ]
 }
-
+print("Hello")
 generate_timetable(data, 5, 6, 1)
